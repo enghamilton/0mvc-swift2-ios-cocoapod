@@ -1,0 +1,6 @@
+framework module Pods_0MVC_Swift2_iOS {
+  umbrella header "Pods-0MVC-Swift2-iOS-umbrella.h"
+
+  export *
+  module * { export * }
+}
