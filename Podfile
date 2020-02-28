@@ -10,7 +10,7 @@ project '0MVC-Swift2-iOS.xcodeproj'
 		# Pods for 0MVC-Swift2-iOS
 		pod 'RMQClient', '~> 0.10.0'
 		pod 'CieloEcommerce', :git => 'https://github.com/DeveloperCielo/API-3.0-iOS.git', :branch => 'master'
-    #pod "CieloPaymentLinkApiClient"
+                #pod "CieloPaymentLinkApiClient"
 		pod 'GoogleSignIn', '~> 4.4.0'
 		pod 'GoogleAPIClientForREST/Drive', '~> 1.3.7'
 
